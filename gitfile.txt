@@ -1,0 +1,7 @@
+hii
+
+this is an example of git ...
+
+my first project.
+
+expermenting with git.
